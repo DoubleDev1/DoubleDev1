@@ -1,4 +1,4 @@
-## Hey, welcome to my github 👋
+### Welcome to my github 👋
 
 - 👨‍💻 I currently have a degree in systems analysis and development and am pursuing a postgraduate degree in information technology management and governance.
 
