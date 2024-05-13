@@ -1,6 +1,6 @@
-### Heyy, welcome to my github  👋
+## Hey, welcome to my github 👋
 
-- 👨‍💻 I'm currently doing college Analysis and System Development
+- 👨‍💻 I currently have a degree in systems analysis and development and am pursuing a postgraduate degree in information technology management and governance.
 
  <div>
   <a href="https://github.com/gabrielbranco011">
